@@ -1,4 +1,5 @@
-# Meta-Front-End-developer certificate:
+# This repository includes all projects done for the Meta-Front-End-developer certificate.
+# Meta-Front-End-developer certificate includes:
 -Course 1: Foundations Of Front-End
 -Course 2: Programming With JavaScript 
 -Course 3: Version Control
